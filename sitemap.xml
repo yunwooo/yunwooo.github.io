@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/</loc><priority>1.0</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/article-chart.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/article-lovestyle.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/article-tf.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/article-som.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/article-faq.html</loc><priority>0.8</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/about.html</loc><priority>0.5</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/privacy.html</loc><priority>0.3</priority></url>
-  <url><loc>https://yunwooo.github.io/github-pages-MBTI/terms.html</loc><priority>0.3</priority></url>
+  <url><loc>https://yunwooo.github.io/</loc><priority>1.0</priority></url>
+  <url><loc>https://yunwooo.github.io/article-chart.html</loc><priority>0.8</priority></url>
+  <url><loc>https://yunwooo.github.io/article-lovestyle.html</loc><priority>0.8</priority></url>
+  <url><loc>https://yunwooo.github.io/article-tf.html</loc><priority>0.8</priority></url>
+  <url><loc>https://yunwooo.github.io/article-som.html</loc><priority>0.8</priority></url>
+  <url><loc>https://yunwooo.github.io/article-faq.html</loc><priority>0.8</priority></url>
+  <url><loc>https://yunwooo.github.io/about.html</loc><priority>0.5</priority></url>
+  <url><loc>https://yunwooo.github.io/privacy.html</loc><priority>0.3</priority></url>
+  <url><loc>https://yunwooo.github.io/terms.html</loc><priority>0.3</priority></url>
 </urlset>
